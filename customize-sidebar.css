@@ -6,7 +6,7 @@
 @homepageURL    https://github.com/xlilu/Customize-Sidebar/
 @author         YF_Eternal, xlilu
 @license     	gpl-3.0
-@var checkbox hide-qq-logo "隐藏侧边栏 QQ Logo" [0, "inline-flex", "none"]
+@var checkbox hide-qq-logo "隐藏侧边栏 QQ Logo" [1, "inline-flex", "none"]
 @var checkbox hide-msg "隐藏侧边栏“消息”选项" [0, "inline-flex", "none"]
 @var checkbox hide-contact "隐藏侧边栏“联系人”选项" [0, "inline-flex", "none"]
 @var checkbox hide-qzone "隐藏侧边栏“空间”选项" [0, "inline-flex", "none"]
